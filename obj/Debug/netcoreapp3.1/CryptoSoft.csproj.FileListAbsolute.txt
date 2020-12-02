@@ -1,0 +1,13 @@
+D:\Users\cheva\Desktop\CESI\A3\UE 2 - Bloc Prog Système\Prosit 5 - Gestion de processus\WS\WS P5\Realisation_P5_Console\bin\Debug\netcoreapp3.1\CryptoSoft.exe
+D:\Users\cheva\Desktop\CESI\A3\UE 2 - Bloc Prog Système\Prosit 5 - Gestion de processus\WS\WS P5\Realisation_P5_Console\bin\Debug\netcoreapp3.1\CryptoSoft.deps.json
+D:\Users\cheva\Desktop\CESI\A3\UE 2 - Bloc Prog Système\Prosit 5 - Gestion de processus\WS\WS P5\Realisation_P5_Console\bin\Debug\netcoreapp3.1\CryptoSoft.runtimeconfig.json
+D:\Users\cheva\Desktop\CESI\A3\UE 2 - Bloc Prog Système\Prosit 5 - Gestion de processus\WS\WS P5\Realisation_P5_Console\bin\Debug\netcoreapp3.1\CryptoSoft.runtimeconfig.dev.json
+D:\Users\cheva\Desktop\CESI\A3\UE 2 - Bloc Prog Système\Prosit 5 - Gestion de processus\WS\WS P5\Realisation_P5_Console\bin\Debug\netcoreapp3.1\CryptoSoft.dll
+D:\Users\cheva\Desktop\CESI\A3\UE 2 - Bloc Prog Système\Prosit 5 - Gestion de processus\WS\WS P5\Realisation_P5_Console\bin\Debug\netcoreapp3.1\CryptoSoft.pdb
+D:\Users\cheva\Desktop\CESI\A3\UE 2 - Bloc Prog Système\Prosit 5 - Gestion de processus\WS\WS P5\Realisation_P5_Console\obj\Debug\netcoreapp3.1\CryptoSoft.csprojAssemblyReference.cache
+D:\Users\cheva\Desktop\CESI\A3\UE 2 - Bloc Prog Système\Prosit 5 - Gestion de processus\WS\WS P5\Realisation_P5_Console\obj\Debug\netcoreapp3.1\CryptoSoft.AssemblyInfoInputs.cache
+D:\Users\cheva\Desktop\CESI\A3\UE 2 - Bloc Prog Système\Prosit 5 - Gestion de processus\WS\WS P5\Realisation_P5_Console\obj\Debug\netcoreapp3.1\CryptoSoft.AssemblyInfo.cs
+D:\Users\cheva\Desktop\CESI\A3\UE 2 - Bloc Prog Système\Prosit 5 - Gestion de processus\WS\WS P5\Realisation_P5_Console\obj\Debug\netcoreapp3.1\CryptoSoft.csproj.CoreCompileInputs.cache
+D:\Users\cheva\Desktop\CESI\A3\UE 2 - Bloc Prog Système\Prosit 5 - Gestion de processus\WS\WS P5\Realisation_P5_Console\obj\Debug\netcoreapp3.1\CryptoSoft.dll
+D:\Users\cheva\Desktop\CESI\A3\UE 2 - Bloc Prog Système\Prosit 5 - Gestion de processus\WS\WS P5\Realisation_P5_Console\obj\Debug\netcoreapp3.1\CryptoSoft.pdb
+D:\Users\cheva\Desktop\CESI\A3\UE 2 - Bloc Prog Système\Prosit 5 - Gestion de processus\WS\WS P5\Realisation_P5_Console\obj\Debug\netcoreapp3.1\CryptoSoft.genruntimeconfig.cache

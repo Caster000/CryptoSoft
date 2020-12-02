@@ -1,0 +1,13 @@
+D:\Users\cheva\Desktop\CESI\A3\UE 2 - Bloc Prog Système\Prosit 5 - Gestion de processus\WS\WS P5\Realisation_P5_Console\bin\Release\netcoreapp3.1\Realisation_P5_Console.exe
+D:\Users\cheva\Desktop\CESI\A3\UE 2 - Bloc Prog Système\Prosit 5 - Gestion de processus\WS\WS P5\Realisation_P5_Console\bin\Release\netcoreapp3.1\Realisation_P5_Console.deps.json
+D:\Users\cheva\Desktop\CESI\A3\UE 2 - Bloc Prog Système\Prosit 5 - Gestion de processus\WS\WS P5\Realisation_P5_Console\bin\Release\netcoreapp3.1\Realisation_P5_Console.runtimeconfig.json
+D:\Users\cheva\Desktop\CESI\A3\UE 2 - Bloc Prog Système\Prosit 5 - Gestion de processus\WS\WS P5\Realisation_P5_Console\bin\Release\netcoreapp3.1\Realisation_P5_Console.runtimeconfig.dev.json
+D:\Users\cheva\Desktop\CESI\A3\UE 2 - Bloc Prog Système\Prosit 5 - Gestion de processus\WS\WS P5\Realisation_P5_Console\bin\Release\netcoreapp3.1\Realisation_P5_Console.dll
+D:\Users\cheva\Desktop\CESI\A3\UE 2 - Bloc Prog Système\Prosit 5 - Gestion de processus\WS\WS P5\Realisation_P5_Console\bin\Release\netcoreapp3.1\Realisation_P5_Console.pdb
+D:\Users\cheva\Desktop\CESI\A3\UE 2 - Bloc Prog Système\Prosit 5 - Gestion de processus\WS\WS P5\Realisation_P5_Console\obj\Release\netcoreapp3.1\Realisation_P5_Console.csprojAssemblyReference.cache
+D:\Users\cheva\Desktop\CESI\A3\UE 2 - Bloc Prog Système\Prosit 5 - Gestion de processus\WS\WS P5\Realisation_P5_Console\obj\Release\netcoreapp3.1\Realisation_P5_Console.AssemblyInfoInputs.cache
+D:\Users\cheva\Desktop\CESI\A3\UE 2 - Bloc Prog Système\Prosit 5 - Gestion de processus\WS\WS P5\Realisation_P5_Console\obj\Release\netcoreapp3.1\Realisation_P5_Console.AssemblyInfo.cs
+D:\Users\cheva\Desktop\CESI\A3\UE 2 - Bloc Prog Système\Prosit 5 - Gestion de processus\WS\WS P5\Realisation_P5_Console\obj\Release\netcoreapp3.1\Realisation_P5_Console.csproj.CoreCompileInputs.cache
+D:\Users\cheva\Desktop\CESI\A3\UE 2 - Bloc Prog Système\Prosit 5 - Gestion de processus\WS\WS P5\Realisation_P5_Console\obj\Release\netcoreapp3.1\Realisation_P5_Console.dll
+D:\Users\cheva\Desktop\CESI\A3\UE 2 - Bloc Prog Système\Prosit 5 - Gestion de processus\WS\WS P5\Realisation_P5_Console\obj\Release\netcoreapp3.1\Realisation_P5_Console.pdb
+D:\Users\cheva\Desktop\CESI\A3\UE 2 - Bloc Prog Système\Prosit 5 - Gestion de processus\WS\WS P5\Realisation_P5_Console\obj\Release\netcoreapp3.1\Realisation_P5_Console.genruntimeconfig.cache
